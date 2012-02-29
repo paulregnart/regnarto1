@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = ""
   s.summary     = "tyring out creating a gem"
   s.description = "just prints out some stuff"
+  s.post_install_message ="Thanks for installing this AWESOME gem" 
 
   s.rubyforge_project = "regnarto1"
 
